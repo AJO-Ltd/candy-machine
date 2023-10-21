@@ -1,0 +1,45 @@
+# Compiled files
+/target/
+
+# Dependency directories
+# It's better to use the 'cargo vendor' command for managing dependencies instead of committing them to the repository
+/vendor/
+/node_modules/
+
+# Optional Cargo lock file
+# Comment the next line if you want to track your dependencies
+Cargo.lock
+
+# Rust/Cargo generated files
+/.cargo/
+
+# Environment file
+.env
+.env.*
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*~
+
+# Logs
+*.log
+
+# Temp files
+*.tmp
+
+# Automatically generated coverage reports
+coverage/
+*.gcda
+*.gcno
+
+# Ignore any personal or sensitive files
+# config.toml
+# credentials.json
+# .env.local
+
+# Add any additional rules for your specific needs
+
