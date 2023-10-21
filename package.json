@@ -2,7 +2,7 @@
   "name": "@formfunction-hq/formfunction-candy-machine",
   "version": "0.0.40",
   "description": "Client SDK for Formfunction Candy Machine program.",
-  "repository": "https://github.com/formfunction-hq/formfn-candy-machine",
+  "repository": "https://github.com/AJO-Ltd/candy-machine",
   "license": "UNLICENSED",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
