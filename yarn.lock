@@ -332,10 +332,8 @@
     minimatch "^3.1.2"
     strip-json-comments "^3.1.1"
 
-"@formfunction-hq/formfunction-program-shared@0.0.58":
-  version "0.0.58"
-  resolved "https://npm.pkg.github.com/download/@formfunction-hq/formfunction-program-shared/0.0.58/580eeb221bf5937f91c891b262b536c54359264f#580eeb221bf5937f91c891b262b536c54359264f"
-  integrity sha512-8S4ujTnYYy6lOU0/7tgEqarDiSuECRHNVIu9Q7dZu4bHuLKZ83RdMLcHVnQQhY83FvyighB5L1oYpbNyjQCIBw==
+"@formfunction-hq/formfunction-program-shared@file:../program-shared":
+  version "0.0.62"
   dependencies:
     "@solana/spl-token" "^0.3.7"
     bn.js "^5.2.1"

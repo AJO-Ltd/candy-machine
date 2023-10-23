@@ -1,0 +1,1 @@
+{"version":3,"file":"MerkleAllowlistConfigData.d.ts","sourceRoot":"","sources":["../../../src/sdk/types/MerkleAllowlistConfigData.ts"],"names":[],"mappings":"AAAA,OAAO,wBAAwB,MAAM,4DAA4D,CAAC;AAElG,KAAK,yBAAyB,GAAG;IAC/B,MAAM,EAAE,KAAK,CAAC,wBAAwB,CAAC,CAAC;IACxC,IAAI,EAAE,KAAK,CAAC,MAAM,CAAC,CAAC;CACrB,CAAC;AAEF,eAAe,yBAAyB,CAAC"}

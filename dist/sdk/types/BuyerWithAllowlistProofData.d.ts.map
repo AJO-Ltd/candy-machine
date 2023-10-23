@@ -1,0 +1,1 @@
+{"version":3,"file":"BuyerWithAllowlistProofData.d.ts","sourceRoot":"","sources":["../../../src/sdk/types/BuyerWithAllowlistProofData.ts"],"names":[],"mappings":"AAAA,KAAK,2BAA2B,GAAG;IACjC,MAAM,EAAE,MAAM,CAAC;IACf,iBAAiB,EAAE,MAAM,CAAC;IAC1B,eAAe,EAAE,MAAM,CAAC;CACzB,CAAC;AAEF,eAAe,2BAA2B,CAAC"}

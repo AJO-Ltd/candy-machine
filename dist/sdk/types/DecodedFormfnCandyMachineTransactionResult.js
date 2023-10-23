@@ -1,0 +1,22 @@
+"use strict";
+var _a, _b, _c, _d, _e, _f, _g, _h, _j, _k, _l, _m, _o, _p, _q, _r;
+Object.defineProperty(exports, "__esModule", { value: true });
+const FormfnCandyMachine_1 = require("../../sdk/idl/FormfnCandyMachine");
+const identity = (val) => val;
+const ixMap = (_a = FormfnCandyMachine_1.IDL.instructionsMap) !== null && _a !== void 0 ? _a : {};
+const AddConfigLinesAccounts = ((_b = ixMap.addConfigLines) !== null && _b !== void 0 ? _b : []).map(identity);
+const AppendMerkleAllowlistRootsAccounts = ((_c = ixMap.appendMerkleAllowlistRoots) !== null && _c !== void 0 ? _c : []).map(identity);
+const ClearMerkleAllowlistRootsAccounts = ((_d = ixMap.clearMerkleAllowlistRoots) !== null && _d !== void 0 ? _d : []).map(identity);
+const InitializeCandyMachineAccounts = ((_e = ixMap.initializeCandyMachine) !== null && _e !== void 0 ? _e : []).map(identity);
+const MintNftAccounts = ((_f = ixMap.mintNft) !== null && _f !== void 0 ? _f : []).map(identity);
+const RemoveCollectionAccounts = ((_g = ixMap.removeCollection) !== null && _g !== void 0 ? _g : []).map(identity);
+const RemoveFreezeAccounts = ((_h = ixMap.removeFreeze) !== null && _h !== void 0 ? _h : []).map(identity);
+const SetCollectionAccounts = ((_j = ixMap.setCollection) !== null && _j !== void 0 ? _j : []).map(identity);
+const SetCollectionDuringMintAccounts = ((_k = ixMap.setCollectionDuringMint) !== null && _k !== void 0 ? _k : []).map(identity);
+const SetFreezeAccounts = ((_l = ixMap.setFreeze) !== null && _l !== void 0 ? _l : []).map(identity);
+const ThawNftAccounts = ((_m = ixMap.thawNft) !== null && _m !== void 0 ? _m : []).map(identity);
+const UnlockFundsAccounts = ((_o = ixMap.unlockFunds) !== null && _o !== void 0 ? _o : []).map(identity);
+const UpdateAuthorityAccounts = ((_p = ixMap.updateAuthority) !== null && _p !== void 0 ? _p : []).map(identity);
+const UpdateCandyMachineAccounts = ((_q = ixMap.updateCandyMachine) !== null && _q !== void 0 ? _q : []).map(identity);
+const WithdrawFundsAccounts = ((_r = ixMap.withdrawFunds) !== null && _r !== void 0 ? _r : []).map(identity);
+//# sourceMappingURL=DecodedFormfnCandyMachineTransactionResult.js.map

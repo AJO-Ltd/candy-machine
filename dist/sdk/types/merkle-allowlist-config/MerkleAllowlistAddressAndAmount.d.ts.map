@@ -1,0 +1,1 @@
+{"version":3,"file":"MerkleAllowlistAddressAndAmount.d.ts","sourceRoot":"","sources":["../../../../src/sdk/types/merkle-allowlist-config/MerkleAllowlistAddressAndAmount.ts"],"names":[],"mappings":"AAAA,KAAK,+BAA+B,GAAG;IACrC,OAAO,EAAE,MAAM,CAAC;IAChB,MAAM,CAAC,EAAE,MAAM,CAAC;CACjB,CAAC;AAEF,eAAe,+BAA+B,CAAC"}
